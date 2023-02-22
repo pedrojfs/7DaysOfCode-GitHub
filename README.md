@@ -6,8 +6,6 @@
 # Challenges-7DaysOfCode-GitHub
 </div>
 
-
-
 # Index
 * [Introduction](#Introduction)
 * [Challenge 1](#Challenge-1)
@@ -32,15 +30,19 @@ O primeiro desafio consiste em criar manualmente um repositório no GitHub. Em s
 
 *GitHub 2/7: 👩🏽‍💻 Adicionando um projeto ao repositório*
 
-O objetivo do segundo desafio é subir manualmente arquivos e imagens para o seu repositório recém-criado do GitHub.
+O objetivo do segundo desafio é subir manualmente arquivos e imagens para o seu repositório recém-criado, usando apenas a própria página do GitHub.
 
 ## Challenge 3
 
 *GitHub 3/7: Clonando um repositório*
 
-Neste desafio foi introduzida a utilização da IDE do Visual Studio Code, onde os objetivos são clonar o repositório criado no GitHub e editá-lo localmente, na IDE.
+Neste desafio foi introduzida a utilização da IDE, Visual Studio Code, com os objetivos de clonar o repositório criado no GitHub e editá-lo localmente, na IDE.
 
 ## Challenge 4
+
+*GitHub 4/7: 👩🏽‍💻 Realizando um commit a partir do VSCode*
+
+Este desafio consiste em alterar o código para deixá-lo mais personalizado. Feito isso, você terá que realizar o commit dessas alterações, tanto usando a IDE quanto comandos no Terminal do Visual Studio Code.
 
 ## Challenge 5
 
