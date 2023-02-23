@@ -46,6 +46,8 @@ Este desafio consiste em alterar o código para deixá-lo mais personalizado. Fe
 
 ## Challenge 5
 
+O objetivo é criar e publicar no repositório um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do código. #7DaysOfCode
+
 ## Challenge 6
 
 ## Challenge 7
