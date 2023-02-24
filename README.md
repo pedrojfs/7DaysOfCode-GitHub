@@ -8,6 +8,7 @@
 
 # Index
 * [Introduction](#Introduction)
+* [Technologies](#Technologies)
 * [Challenge 1](#Challenge-1)
 * [Challenge 2](#Challenge-2)
 * [Challenge 3](#Challenge-3)
@@ -15,7 +16,6 @@
 * [Challenge 5](#Challenge-5)
 * [Challenge 6](#Challenge-6)
 * [Challenge 7](#Challenge-7)
-* [Technologies](#Technologies)
 
 ## Introduction
 
