@@ -46,8 +46,14 @@ Este desafio consiste em alterar o código para deixá-lo mais personalizado. Fe
 
 ## Challenge 5
 
+*GitHub 5/7: Revertendo um commit*
+
 O objetivo é criar e publicar no repositório um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do código. #7DaysOfCode
 
 ## Challenge 6
+
+*GitHub 6/7: 👩🏽‍💻 Resolvendo um conflito*
+
+O desafio é resolver conflito de commits de fontes diferentes e fazer um commit do resultado do seu merge.
 
 ## Challenge 7
