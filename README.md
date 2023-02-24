@@ -35,7 +35,7 @@ O projeto consiste em 7 desafios de GitHub propostos pelo instrutor [Fabrício C
 
 📍 *GitHub 1/7: Criando um repositório*
 
-O primeiro desafio consiste em criar manualmente um repositório no GitHub. Em seguida alterar o arquivo ReadMe do seu perfil.
+O primeiro desafio consiste em criar manualmente um repositório no GitHub. Em seguida alterar o arquivo ReadMe.
 
 ## Challenge 2
 
@@ -53,22 +53,22 @@ Neste desafio foi introduzida a utilização da IDE, Visual Studio Code, com os 
 
 📍 *GitHub 4/7: 👩🏽‍💻 Realizando um commit a partir do VSCode*
 
-Este desafio consiste em alterar o código para deixá-lo mais personalizado. Feito isso, você terá que realizar o commit dessas alterações, tanto usando a IDE quanto comandos no Terminal do Visual Studio Code.
+Este desafio consistiu em alterar o código para deixá-lo mais personalizado. Feito isso, você terá que realizar o commit dessas alterações, tanto usando a IDE quanto comandos no Terminal do Visual Studio Code.
 
 ## Challenge 5
 
 📍 *GitHub 5/7: Revertendo um commit*
 
-O objetivo é criar e publicar no repositório um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do código. #7DaysOfCode
+O objetivo era criar e publicar no repositório um commit errado e, posteriormente, revertê-lo, a fim de remover o erro do código. #7DaysOfCode
 
 ## Challenge 6
 
 📍 *GitHub 6/7: 👩🏽‍💻 Resolvendo um conflito*
 
-O desafio é resolver conflito de commits de fontes diferentes e fazer um commit do resultado do seu merge.
+O desafio foi resolver conflito de commits de fontes diferentes e fazer um commit do resultado do seu merge.
 
 ## Challenge 7
 
 📍 *GitHub 7/7: Fazendo o deploy no GitHub Pages*
 
-O último dia de #7DaysOfCode com GitHub, tem como atividade colocar o projeto em produção usando o GitHub Pages do próprio GitHub.
+O desafio do #7DaysOfCode com GitHub, teve como atividade colocar o projeto em produção usando o GitHub Pages do próprio GitHub.
