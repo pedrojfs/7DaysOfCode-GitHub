@@ -4,6 +4,11 @@
 <a href="https://7daysofcode.io/" title="7DaysOfCode"><img src="https://user-images.githubusercontent.com/38635311/220653454-04f4a8e2-9ac0-493a-bf2d-d9e7dc0cd5a2.png" alt="7DaysOfCode"></a>
 
 # Challenges-7DaysOfCode-GitHub
+
+![Badge status](http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=BLUE&style=for-the-badge)
+
+![Badge code size](https://img.shields.io/github/languages/code-size/pedrojfs/Challenges-7DaysOfCode-GitHub)
+![Badge update](https://img.shields.io/github/last-commit/pedrojfs/Challenges-7DaysOfCode-GitHub)
 </div>
 
 # Index
